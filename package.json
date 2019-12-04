@@ -1,0 +1,16 @@
+{
+  "name": "temp6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "mocha": "^6.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
